@@ -29,6 +29,7 @@
 
 *Core Tools
   - [ ]The Missing Semester of Your CS Education
+  - [ ]How to Use Git and GitHub
 
 *Core Systems
   - [ ]Build a Modern Computer from First Principles: From Nand to Tetris (alternative)
