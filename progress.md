@@ -2,13 +2,9 @@
 
 ## Intro CS
 
-### Introduction to Computer Science
-- [ ] CS50
-- [ ] Introduction to Computer Science and Programming Using Python (MITx 6.00.1x)
-
-### Introduction to Programming
-- [ ] CS50p
-- [ ] Python for Everybody
+### Intro to Computer Science
+- [ ] CS50P
+- [ ] CS50X
 - [ ] CS50W
 
 ---
@@ -32,7 +28,6 @@
 
 ### Core Tools
 - [ ] The Missing Semester of Your CS Education
-- [ ] How to Use Git and GitHub
 
 ### Core Systems
 - [ ] Build a Modern Computer from First Principles: From Nand to Tetris (Part I)
