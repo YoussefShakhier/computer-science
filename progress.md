@@ -9,6 +9,7 @@
 ### Introduction to Programming
 - [ ] CS50p
 - [ ] Python for Everybody
+- [ ] CS50W
 
 ---
 
